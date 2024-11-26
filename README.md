@@ -1,2 +1,2 @@
-# nfl-generative-ai
+# NFL Generative AI
 Conversational AI model with NFL statistics
